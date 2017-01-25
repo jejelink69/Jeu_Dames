@@ -1,0 +1,4 @@
+
+Pb rencontrés et pb à l'avenir quand on voudra choisir entre jouer joueur ou IA  :
+Impossible de savoir sur quel écran (jeu IA ou joueur) on a cliqué pour lancer le jeu. Du coup,
+impossible de récupérer la couleur

@@ -1,0 +1,138 @@
+
+pions_damiers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bleuneonsurbri
+  rotate: false
+  xy: 1, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pionbleu
+  rotate: false
+  xy: 1, 1
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+carreblanc
+  rotate: false
+  xy: 67, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+piongrisrouge
+  rotate: false
+  xy: 65, 1
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+carreblancsurbri
+  rotate: false
+  xy: 133, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pionvert
+  rotate: false
+  xy: 129, 1
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+carrebleuneon
+  rotate: false
+  xy: 199, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pionvioletgris
+  rotate: false
+  xy: 193, 1
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+carregris
+  rotate: false
+  xy: 265, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pionrouge
+  rotate: false
+  xy: 257, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+carregrissurbri
+  rotate: false
+  xy: 331, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carremarron
+  rotate: false
+  xy: 397, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carremarronsurbri
+  rotate: false
+  xy: 463, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carrenoir
+  rotate: false
+  xy: 529, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carrenoirneon
+  rotate: false
+  xy: 595, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carrenoirsurbri
+  rotate: false
+  xy: 661, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carrerouge
+  rotate: false
+  xy: 727, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+carrerougesurbri
+  rotate: false
+  xy: 793, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+noirneonsurbri
+  rotate: false
+  xy: 859, 63
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
